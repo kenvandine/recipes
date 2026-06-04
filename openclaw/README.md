@@ -14,6 +14,7 @@ This directory contains Lemonade Server recipes intended to work well with OpenC
 
 - `GLM-4.7-Flash-GGUF`
 - `Gemma-4-26B-A4B`
+- `Qwen3.6-35B-A3B-MTP-GGUF`
 - `Qwen3.5-35B-A3B-Q4_K_M`
 - `Qwen3-Coder-30B-A3B-Instruct-GGUF`
 - `Qwen3-VL-30B-A3B-Instruct-GGUF`
